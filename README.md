@@ -1,16 +1,36 @@
-## Hi there 👋
+# Oluwabori Abiodun-Johnson (Bori)
+### Data Analyst → Data Scientist | Lagos, Nigeria
+**Open to remote and on-site opportunities**
 
-<!--
-**bori-the-analyst/bori-the-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a data analyst with 4+ years turning messy business data into 
+decisions that actually get made. My background is in sales analytics — 
+building models, dashboards, and automated reports that non-technical 
+stakeholders can act on immediately.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently deepening my stack into Python, ML, and end-to-end data 
+pipelines as I transition into data science and ML engineering roles.
+
+---
+
+## Tools & Skills
+**Proficient:** SQL · Excel (advanced) · Power Query · Power Pivot · 
+DAX · Power BI 
+
+**Building:** Python (pandas, NumPy) · Tableau · dbt
+
+---
+
+## Projects
+*(Portfolio in active development — updated weekly)*
+
+| Project | Tools | Description |
+|---|---|---|
+| Coming Sept 2026 | Python · SQL · Power BI | Nigerian market data analysis |
+| Coming Oct 2026 | Power BI · dbt | End-to-end business dashboard |
+
+---
+
+## Connect
+[LinkedIn](www.linkedin.com/in/oluwabori-abiodun-johnson-04b862199) · [Email](abiodunjohnson2805@gmail.com)
