@@ -1,6 +1,6 @@
 # Oluwabori Abiodun-Johnson (Bori)
 ### Data Analyst → Data Scientist | Lagos, Nigeria
-**Open to remote and on-site opportunities**
+**Open to remote, on-site, and consulting opportunities**
 
 ---
 
