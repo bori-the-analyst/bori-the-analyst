@@ -5,6 +5,7 @@
 ---
 
 I'm a data analyst with 4+ years turning messy business data into critical decisions. 
+
 Notable background in sales analytics — cleaning data, transforming, building models, dashboards, automated reports, and communicating practical findings
 that influence strategic decisions which non-technical stakeholders can act on immediately.
 
